@@ -1,2 +1,2 @@
 # PokeDexSprites
-Repository for Picutures shown in [PokeDex](https://github.com/infinitel8p/PokeDex)
+Repository for pictures shown in [PokeDex](https://github.com/infinitel8p/PokeDex)
